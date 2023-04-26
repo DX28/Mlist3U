@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://m3ukodi.com/servicios/ott/epg/epg-guide.php
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/b6/4c/bnPtlZ1G_o.png" group-title="NACIONALES",NPY
 http://clubtv.link/250423abr/top332/lista1.php?c=a024
