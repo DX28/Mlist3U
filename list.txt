@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url=https://m3ukodi.com/servicios/ott/epg/epg-guide.php
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/b6/4c/bnPtlZ1G_o.png" group-title="NACIONALES",NPY
 http://clubtv.link/250423abr/top332/lista1.php?c=a024
@@ -101,37 +101,37 @@ http://clubtv.link/250423abr/top332/lista3.php?c=a03a
 
 //PELICULAS
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Star Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="PELICULAS",Star Channel
 http://clubtv.link/250423abr/top332/lista1.php?c=a037
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="PELICULAS",HBO
 http://clubtv.link/250423abr/top332/lista1.php?c=a001
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="PELICULAS",HBO 2
 http://clubtv.link/250423abr/top332/lista1.php?c=a02o
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="PELICULAS",HBO Family
 http://clubtv.link/250423abr/top332/lista1.php?c=a02r
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",HBO Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="PELICULAS",HBO Plus
 http://clubtv.link/250423abr/top332/lista3.php?c=a02p
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Universal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnjvR5f.png" group-title="PELICULAS",Universal
 http://clubtv.link/250423abr/top332/lista3.php?c=a031
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Space
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="PELICULAS",Space
 http://clubtv.link/250423abr/top332/lista3.php?c=a005
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="PELICULAS",FX
 http://clubtv.link/250423abr/top332/lista3.php?c=a006
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Cinecanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png" group-title="PELICULAS",Cinecanal
 http://clubtv.link/250423abr/top332/lista3.php?c=a030
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" group-title="PELICULAS",Cinemax
 http://clubtv.link/250423abr/top332/lista3.php?c=a002
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",Paramount
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcIihFY.png" group-title="PELICULAS",Paramount
 http://clubtv.link/250423abr/top332/lista.php?c=28030
 
 
