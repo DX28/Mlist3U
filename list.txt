@@ -31,7 +31,7 @@ http://clubtv.link/may0905/top6122/lista1.php?c=a01o
 //DEPORTES
 
 #EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1
-http://clubtv.link/may0905/top6122/lista1.php?c=a01h
+http://magmas5.com:8000/0B0FMNVMXI/FBPUQ0S2FQ/3312
 
 #EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2
 http://clubtv.link/may0905/top6122/lista1.php?c=a013
@@ -58,13 +58,16 @@ http://clubtv.link/may0905/top6122/lista1.php?c=a02u
 http://clubtv.link/may0905/top6122/lista1.php?c=a00h
 
 #EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4
-http://clubtv.link/may0905/top6122/lista2.php?c=a0gc&f=.m3u8
+http://clubtv.link/may0905/top6122/lista1.php?c=a01h
 
 #EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN CO
 http://clubtv.link/may0905/top6122/lista1.php?c=a023
 
 #EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",ESPN 2CO
 http://clubtv.link/may0905/top6122/lista1.php?c=a00t
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN PLUS CO
+http://149.3.170.59:8080/nr7PNvN9jG/KcBZcZyEBn/10718
 
 #EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN MX
 http://clubtv.link/may0905/top6122/lista.php?c=28000
@@ -161,4 +164,3 @@ http://clubtv.link/may0905/top6122/lista1.php?c=a01c
 
 #EXTINF:-1 tvg-logo="https://goo.su/6ySGa" group-title="DOCUMENTALES",Animal Planet
 http://clubtv.link/may0905/top6122/lista3.php?c=a00p
-
