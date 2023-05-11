@@ -31,13 +31,16 @@ http://clubtv.link/may0905/top6122/lista1.php?c=a01o
 //DEPORTES
 
 #EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1
-http://magmas5.com:8000/0B0FMNVMXI/FBPUQ0S2FQ/3312
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48959.ts
 
 #EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2
 http://clubtv.link/may0905/top6122/lista1.php?c=a013
 
 #EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3
 http://clubtv.link/may0905/top6122/lista1.php?c=a014
+
+#EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS PREMIUM
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/164581.ts
 
 #EXTINF:-1 tvg-logo="https://goo.su/Spoq2" group-title="DEPORTES",FOX SPORTS 1MX
 http://clubtv.link/may0905/top6122/lista.php?c=28008
@@ -60,6 +63,9 @@ http://clubtv.link/may0905/top6122/lista1.php?c=a00h
 #EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4
 http://clubtv.link/may0905/top6122/lista1.php?c=a01h
 
+#EXTINF:-1 tvg-logo="https://goo.su/fklzSm" group-title="DEPORTES",ESPN PREMIUM
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/165275.ts
+
 #EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN CO
 http://clubtv.link/may0905/top6122/lista1.php?c=a023
 
@@ -77,6 +83,18 @@ http://clubtv.link/may0905/top6122/lista.php?c=27996
 
 #EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn 3MX
 http://clubtv.link/may0905/top6122/lista.php?c=27998
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/87964.ts
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 2
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48995.ts
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport Chile
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146757.ts
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport NBA
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/373557.ts
 
 
 //INFANTIL
@@ -145,7 +163,10 @@ http://clubtv.link/may0905/top6122/lista.php?c=28030
 http://clubtv.link/may0905/top6122/lista1.php?c=a016
 
 #EXTINF:-1 tvg-logo="https://goo.su/c0VsgpL" group-title="NOVELAS",Telemundo
-http://clubtv.link/may0905/top6122/lista1.php?c=a015
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/166569.ts
+
+#EXTINF:-1 tvg-logo="https://goo.su/c0VsgpL" group-title="NOVELAS", TELEMUNDO LA
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94107.ts
 
 
 //Documuentales
