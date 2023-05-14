@@ -93,13 +93,13 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48995.ts
 #EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport Chile
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146757.ts
 
-#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport NBA
+#EXTINF:0 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport NBA
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/373557.ts
 
 #EXTINF:-1 tvg-logo="https://goo.su/ORdCFjb" group-title="DEPORTES",Tigo Sport PY
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82448.ts
 
-#EXTINF:-1 tvg-logo="https://goo.su/sLgGsU" group-title="DEPORTES",WWE Network
+#EXTINF:0 tvg-logo="https://goo.su/sLgGsU" group-title="DEPORTES",WWE Network
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139263.ts
 
 
