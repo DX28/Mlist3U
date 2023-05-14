@@ -96,6 +96,12 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146757.ts
 #EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport NBA
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/373557.ts
 
+#EXTINF:-1 tvg-logo="https://goo.su/ORdCFjb" group-title="DEPORTES",Tigo Sport PY
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82448.ts
+
+#EXTINF:-1 tvg-logo="https://goo.su/sLgGsU" group-title="DEPORTES",WWE Network
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139263.ts
+
 
 //INFANTIL
 #EXTINF:-1 tvg-logo="https://goo.su/IGiW4Rv" group-title="INFANTIL",Discovery Kids
@@ -185,3 +191,8 @@ http://clubtv.link/m1405/key5563/lista1.php?c=a01c
 
 #EXTINF:-1 tvg-logo="https://goo.su/6ySGa" group-title="DOCUMENTALES",Animal Planet
 http://clubtv.link/m1405/key5563/lista3.php?c=a00p
+
+
+#EXTINF:-1 group-title="INFO" , 1.Si los canales
+#EXTINF:-1 group-title="INFO" , 2.se caen, los reparare
+#EXTINF:-1 group-title="INFO" , 3.lo antes posible
