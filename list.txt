@@ -31,7 +31,7 @@ http://clubtv.link/1823m/key2589/lista1.php?c=a01o
 //DEPORTES
 
 #EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48959.ts
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86352
 
 #EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2
 http://clubtv.link/1823m/key2589/lista1.php?c=a013
@@ -40,7 +40,7 @@ http://clubtv.link/1823m/key2589/lista1.php?c=a013
 http://clubtv.link/1823m/key2589/lista1.php?c=a014
 
 #EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS PREMIUM
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48998.ts
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163375
 
 #EXTINF:-1 tvg-logo="https://goo.su/Spoq2" group-title="DEPORTES",FOX SPORTS 1MX
 http://clubtv.link/1823m/key2589/lista.php?c=28008
@@ -64,7 +64,7 @@ http://clubtv.link/1823m/key2589/lista1.php?c=a00h
 http://clubtv.link/1823m/key2589/lista1.php?c=a01h
 
 #EXTINF:-1 tvg-logo="https://goo.su/fklzSm" group-title="DEPORTES",ESPN PREMIUM
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/165275.ts
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214261
 
 #EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN CO
 http://clubtv.link/1823m/key2589/lista1.php?c=a023
@@ -85,16 +85,16 @@ http://clubtv.link/1823m/key2589/lista.php?c=27996
 http://clubtv.link/1823m/key2589/lista.php?c=27998
 
 #EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/87964.ts
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86626
 
 #EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 2
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48995.ts
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129702
 
 #EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport Chile
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146757.ts
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86599
 
 #EXTINF:-1 tvg-logo="https://goo.su/43wnxZR" group-title="DEPORTES",WWE Network
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139263.ts
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/88732
 
 
 //INFANTIL
@@ -163,7 +163,10 @@ http://clubtv.link/1823m/key2589/lista.php?c=28030
 http://clubtv.link/1823m/key2589/lista1.php?c=a016
 
 #EXTINF:-1 tvg-logo="https://goo.su/c0VsgpL" group-title="NOVELAS",Telemundo
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/166569.ts
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/131094
+
+#EXTINF:-1 tvg-logo="https://goo.su/c0VsgpL" group-title="NOVELAS",Telemundo Clasicas
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111455
 
 
 //Documuentales
