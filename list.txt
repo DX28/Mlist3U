@@ -155,6 +155,9 @@ http://clubtv.link/1823m/key2589/lista3.php?c=a002
 #EXTINF:-1 tvg-logo="https://goo.su/ye8eYA" group-title="PELICULAS",Paramount
 http://clubtv.link/1823m/key2589/lista.php?c=28030
 
+#EXTINF:0 tvg-logo="https://goo.su/Nv1cak" group-title="PELICULAS",Rapidos y Furiosos X
+https://cdn14.tokyvideo.com/videos/256/256235/mp4/38f8877bb38a72a419329e2ee8ef6d933a42adaf923cf6513b6e9f9b2b80f1f9.mp4?nva=20230520230823&nvb=20230518230823&token=0955731438b3c47c04b8d
+
 
 
 //NOVELAS
