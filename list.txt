@@ -31,16 +31,16 @@ http://clubtv.link/22m05/key7456/lista3.php?c=a01o
 //DEPORTES
 
 #EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/86352
+http://xyz.smartv.me:8000/zejnep-valintina/9rdyLBpL55nP/146089
 
 #EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2
-http://clubtv.link/22m05/key7456/lista3.php?c=a013
+http://xyz.smartv.me:8000/zejnep-valintina/9rdyLBpL55nP/146090
 
 #EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3
 http://clubtv.link/22m05/key7456/lista3.php?c=a014
 
 #EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS PREMIUM
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/163375
+http://xyz.smartv.me:8000/zejnep-valintina/9rdyLBpL55nP/146091
 
 #EXTINF:-1 tvg-logo="https://goo.su/Spoq2" group-title="DEPORTES",FOX SPORTS 1MX
 http://clubtv.link/22m05/key7456/lista.php?c=28008
