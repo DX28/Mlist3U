@@ -64,7 +64,7 @@ http://clubtv.link/22m05/key7456/lista3.php?c=a00h
 http://clubtv.link/22m05/key7456/lista3.php?c=a01h
 
 #EXTINF:-1 tvg-logo="https://goo.su/fklzSm" group-title="DEPORTES",ESPN PREMIUM
-http://46.166.171.183:8080/skytvperu/61DS56165DW1/214261
+http://xyz.smartv.me:8000/zejnep-valintina/9rdyLBpL55nP/146091
 
 #EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN CO
 http://clubtv.link/22m05/key7456/lista3.php?c=a023
