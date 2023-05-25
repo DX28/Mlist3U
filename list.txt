@@ -159,7 +159,6 @@ http://clubtv.link/22m05/top6363/lista.php?c=28030
 https://cdn14.tokyvideo.com/videos/256/256235/mp4/38f8877bb38a72a419329e2ee8ef6d933a42adaf923cf6513b6e9f9b2b80f1f9.mp4?nva=20230520230823&nvb=20230518230823&token=0955731438b3c47c04b8d
 
 
-
 //NOVELAS
 
 #EXTINF:-1 tvg-logo="https://goo.su/IAsu" group-title="NOVELAS",RCN Novelas
