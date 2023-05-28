@@ -156,7 +156,7 @@ http://clubtv.link/m2705/key9797/lista3.php?c=a002
 http://clubtv.link/m2705/key9797/lista.php?c=28030
 
 #EXTINF:0 tvg-logo="https://goo.su/Nv1cak" group-title="PELICULAS",Rapidos y Furiosos X
-http://demo.flixal.xyz:80/play/X_kU-2XLOoyeRKxWzjK6ookWZo0LHpblCJHFeIWBuXQ
+https://m100.uqload.co/3rfkri7zqnw2q4drdjepxlvgllkwxqtzukyvhuvgojvlbag3k7idwf7b5apq/v.mp4
 
 
 //NOVELAS
