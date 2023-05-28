@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
 #EXTINF:-1 tvg-logo="https://goo.su/hGkS" group-title="NACIONALES",NPY
 http://clubtv.link/m2705/key9797/lista3.php?c=a024
