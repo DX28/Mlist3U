@@ -93,12 +93,9 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116864
 #EXTINF:-1 tvg-logo="https://goo.su/SbX9YR0" group-title="DEPORTES",Tigo Sport PY
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60766
 
-#EXTINF:-1 tvg-logo="https://goo.su/43wnxZR" group-title="DEPORTES",WWE Network
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/1128
-
 
 //INFANTIL
-#EXTINF:-1 tvg-logo="https://goo.su/IGiW4Rv" group-title="INFANTIL",Discovery Kids
+#EXTINF:-1 tvg-logo="https://goo.su/YCqE2" group-title="INFANTIL",Discovery Kids
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61129
 
 #EXTINF:-1 tvg-logo="https://goo.su/HQGqxC" group-title="INFANTIL",Disney Jr.
@@ -117,7 +114,7 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61134
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119820
 
 #EXTINF:-1 tvg-logo="https://goo.su/B4m83" group-title="INFANTIL",Cartoon Network
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60772
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/120027
 
 
 //PELICULAS
@@ -176,9 +173,9 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119823
 #EXTINF:-1 tvg-logo="https://goo.su/6ySGa" group-title="DOCUMENTALES",Animal Planet
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119957
 
-#EXTINF:-1 tvg-logo="https://goo.su/frUIG" group-title="DR STONE",1x3
+#EXTINF:-1 tvg-logo="https://goo.su/vQO9NHF" group-title="DR STONE",1x3
 https://908472281.tapecontent.net/radosgw/Lql624OkzpfRddz/ojpn6MS5-YfIysIJuhtiF46OtRSiUkHVCo0ZKr5Qx1dyH8nv7q5frwQi_GdPnKKg5dMHpAu1xjrElXGwAKlKON63XjK8--XFsrpPL-qn3KFrIfH41_CiDPo3MYtJk6vUBb75QnhcaZMHWPoQHM-o201xEsHDr7h2NH8BJKTYFcaUXFDEFfnts96lSXtWo4mddWOPn7m6l6vZTMmRapKUcHCISFa5ZAoswty-wL4wIY82NgFDUNwhULi6tdKsUeSS83lgOZj6IWr65rXn6AFwpXeNr70dIaqvMw_EBcOMWeiVei2zl6R-YSV37b2o6IIo5yh8LFRn-9ReopGO/%5BAnimeOnlineNinja%5D+%5BA%26C%5D+Dr.+Stone+BD+Latino+03.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://goo.su/frUIG" group-title="DR STONE",1x4
+#EXTINF:-1 tvg-logo="https://goo.su/vQO9NHF" group-title="DR STONE",1x4
 https://861510079.tapecontent.net/radosgw/XPw0xbGOrasg7a/rK8iCxIFxdK9npAngF1paefn_rvw54QOgG82dHmad8dk8ksR5PaDqnX3MOaejAhjAstMzSNEW6EUIaZAB_nFK7MZqQ9oLdzAuNm-omyPyq9aw4ihX9eDdJldt8DiUedx5e6RA7KWotxnZsvNhD0csXZwt0MC6tvFjWLXRu_BQcWHM0n1caB4kXYkCyI7dh9Tph9gzdDt2ERre0Tz-9xOb8iVgiSDkcq_lSfu0TM0LTzDI58ZYwM9rPRrVH7yndsVRVmb-SHx2lOZgUlYXJqbh-WUoZuDSYatWwDTU3T0NoXrgthsEXkCTvecR3K00b-1pBLj_i0mME7xsUkj/%5BAnimeOnlineNinja%5D+%5BA%26C%5D+Dr.+Stone+BD+Latino+04.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://goo.su/frUIG" group-title="DR STONE",1x5
+#EXTINF:-1 tvg-logo="https://goo.su/vQO9NHF" group-title="DR STONE",1x5
 https://s88.upstreamcdn.co/hls2/01/03524/oankp5f4mhv7_n/master.m3u8?t=0ihgyr1UNH4FMngbA4qTBoXXuUnXHW-QTBX0FXdHzAI&s=1685407664&e=10800&f=17622581&i=181.94&sp=0
