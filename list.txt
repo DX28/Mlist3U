@@ -39,7 +39,7 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60707
 #EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60708
 
-#EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-logo="https://goo.su/e3UTk8" group-title="DEPORTES",FOX SPORTS PREMIUM
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60721
 
 #EXTINF:-1 tvg-logo="https://goo.su/Spoq2" group-title="DEPORTES",FOX SPORTS 1MX
@@ -132,7 +132,7 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48880
 #EXTINF:-1 tvg-logo="https://goo.su/3NZAr" group-title="DEPORTES",DAZN 4
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48882
 
-#EXTINF:-1 tvg-logo="https://goo.su/BcoO" group-title="DEPORTES",DAZN 4
+#EXTINF:-1 tvg-logo="https://goo.su/BcoO" group-title="DEPORTES",DAZN LA LIGA
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104710
 
 
