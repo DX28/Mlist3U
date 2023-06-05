@@ -174,10 +174,8 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119823
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119957
 
 #EXTINF:-1 tvg-logo="https://goo.su/vQO9NHF" group-title="DR STONE",1x4
-https://861510079.tapecontent.net/radosgw/XPw0xbGOrasg7a/jHlyJ7m7lazN387nKmnOEEN8pzkLs05N7FWYJ75jOKqW6e-ETgWSQKxf6gdq65MYrQcpdPQxzhqQCS_c5UiF4v9XsUUGW787R8R3ygHqz8rZSDBijx3XvNapQJ09AyKtoC_9qqzoJkm8VHOJmcPS66Bj4cL5QBTdqFWjmDniHvpA9Ad3d8nifjZCM0qZCZdZoI7ZJpcMg_QNfuYhGpJ2cy4Fge_cqimfkeO73lortC5NDEg8B774dRZjj1dm_OqxRK2YQxvxU2MGPjazcRgy_mtaHhSLwBlTJSE6u-HtGh6vxCtNqqu8U4I-uuoa-ecBDR6UKKbaCnwuqmt5/%5BAnimeOnlineNinja%5D+%5BA%26C%5D+Dr.+Stone+BD+Latino+04.mp4?stream=1
-
 #EXTINF:-1 tvg-logo="https://goo.su/vQO9NHF" group-title="DR STONE",1x5
-https://s-delivery41.mxdcontent.net/v/b706a4f62a3431c87a4c425236918d02.mp4?s=hkUhjjKaSssQBSeg5f0ZWA&e=1685766031&_t=1685746189
-
 #EXTINF:-1 tvg-logo="https://goo.su/vQO9NHF" group-title="DR STONE",1x6
-https://861495961.tapecontent.net/radosgw/mPB7GgZ2b1hGLG/jfKfXlkY0dG6dLmCcu4Uq-BYlcHTjGrx5-RoRHRrXU0N3DHh0cfIWKnY1euT8-tkKexQ0X_MlemwUuMeatxELMEroqvdq-TmKQfprKhWh_g1RMs4HokDdt9_NU0i_ilyFqAaNgzhCBBr6tbcETj2UUCLOgDpqAfCu6_bFEzhx-oHHoENvwnhXWr2n7jldbVt2WHTjDP9PdVS15NCuJzvhi3ayQ6sakwhQ3tsPuCIezg4O5bP4ciN991cb2a3Yhg_OxXbpwnJSq0AXYiFaY-9ykaIhPz60Jl4DVoEY3GSA3jotXKY4v3SAOAFvKfen4xgTd10TmD8hBP7ON5h/%5BAnimeOnlineNinja%5D+%5BA%26C%5D+Dr.+Stone+BD+Latino+06.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://goo.su/E7Hru" group-title="Cobra Kai",Temporada 1 (24/7)
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/120277
