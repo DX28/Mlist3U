@@ -37,7 +37,7 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60706
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60707
 
 #EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60855
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60708
 
 #EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS PREMIUM
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60721
@@ -51,23 +51,47 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61049
 #EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS 3MX
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61092
 
-#EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS MX PREMIUM
+#EXTINF:-1 tvg-logo="https://goo.su/e3UTk8" group-title="DEPORTES",FOX SPORTS MX PREMIUM
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/78290
 
-#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-logo="https://goo.su/2q3ad" group-title="DEPORTES",DSports AR
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60713
+
+#EXTINF:-1 tvg-logo="https://goo.su/TLYq" group-title="DEPORTES",DSports 2AR
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60712
+
+#EXTINF:-1 tvg-logo="https://goo.su/TLYq" group-title="DEPORTES",DSports AR+
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60853
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN AR
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60709
 
-#EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",ESPN 2
+#EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",ESPN 2AR
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60710
 
-#EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",ESPN 3AR
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60711
 
-#EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4
+#EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4AR 
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49127
 
-#EXTINF:-1 tvg-logo="https://goo.su/fklzSm" group-title="DEPORTES",ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://goo.su/PfUUyt" group-title="DEPORTES",ESPN ARExtra
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116847
+
+#EXTINF:-1 tvg-logo="https://goo.su/fklzSm" group-title="DEPORTES",ESPN ARPremium
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/96015
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport AR
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60703
+
+#EXTINF:-1 tvg-logo="https://goo.su/BdSD" group-title="DEPORTES",T&C Sport AR
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61066
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 2 CL
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116863
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 3 CL
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116864
 
 #EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN CL
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60906
@@ -81,17 +105,35 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60998
 #EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn 3MX
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61159
 
-#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60703
+#EXTINF:-1 tvg-logo="https://goo.su/UJjY" group-title="DEPORTES",Sky Sports La Liga
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/102386
 
-#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 2 CL
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116863
+#EXTINF:-1 tvg-logo="https://goo.su/UJjY" group-title="DEPORTES",Sky Sports Bundesliga
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/102387
 
-#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 3 CL
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116864
+#EXTINF:-1 tvg-logo="https://goo.su/3Z9zJP" group-title="DEPORTES",Liga 1
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141850
+
+#EXTINF:-1 tvg-logo="https://goo.su/E6lFTL" group-title="DEPORTES",Liga 1MAX
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/10817
 
 #EXTINF:-1 tvg-logo="https://goo.su/SbX9YR0" group-title="DEPORTES",Tigo Sport PY
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60766
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60768
+
+#EXTINF:-1 tvg-logo="https://goo.su/z63A" group-title="DEPORTES",DAZN 1
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104721
+
+#EXTINF:-1 tvg-logo="https://goo.su/Xlbi" group-title="DEPORTES",DAZN 2
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104700
+
+#EXTINF:-1 tvg-logo="https://goo.su/X81sO" group-title="DEPORTES",DAZN 3
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48880
+
+#EXTINF:-1 tvg-logo="https://goo.su/3NZAr" group-title="DEPORTES",DAZN 4
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48882
+
+#EXTINF:-1 tvg-logo="https://goo.su/BcoO" group-title="DEPORTES",DAZN 4
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104710
 
 
 //INFANTIL
@@ -105,16 +147,16 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61130
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61135
 
 #EXTINF:-1 tvg-logo="https://goo.su/XfGT9" group-title="INFANTIL",Disney Channel
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93946
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61132
 
 #EXTINF:-1 tvg-logo="https://goo.su/DyPO57l" group-title="INFANTIL",Nickelodeon
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61134
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61058
 
 #EXTINF:-1 tvg-logo="https://goo.su/PFm6" group-title="INFANTIL",Nick Jr
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119820
 
 #EXTINF:-1 tvg-logo="https://goo.su/B4m83" group-title="INFANTIL",Cartoon Network
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/120027
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/120026
 
 
 //PELICULAS
@@ -173,9 +215,5 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119823
 #EXTINF:-1 tvg-logo="https://goo.su/6ySGa" group-title="DOCUMENTALES",Animal Planet
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119957
 
-#EXTINF:-1 tvg-logo="https://goo.su/vQO9NHF" group-title="DR STONE",1x4
-#EXTINF:-1 tvg-logo="https://goo.su/vQO9NHF" group-title="DR STONE",1x5
-#EXTINF:-1 tvg-logo="https://goo.su/vQO9NHF" group-title="DR STONE",1x6
-
-#EXTINF:-1 tvg-logo="https://goo.su/E7Hru" group-title="Cobra Kai",Temporada 1 (24/7)
+#EXTINF:-1 tvg-logo="https://goo.su/GhPZGVZ" group-title="Cobra Kai",Temporada 1 (24/7)
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/120277
