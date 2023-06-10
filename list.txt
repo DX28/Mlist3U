@@ -13,7 +13,7 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119692
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60757
 
 #EXTINF:-1 tvg-logo="https://goo.su/mrPK" group-title="NACIONALES",SNT
-https://d1263956mchuq3.cloudfront.net/hls/snt_270.m3u8
+https://d1263956mchuq3.cloudfront.net/hls/snt.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.su/aSnMpJG" group-title="NACIONALES",LA TELE
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119686
