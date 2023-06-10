@@ -13,7 +13,7 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119692
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60757
 
 #EXTINF:-1 tvg-logo="https://goo.su/mrPK" group-title="NACIONALES",SNT
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119688
+https://d1263956mchuq3.cloudfront.net/hls/snt_270.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.su/aSnMpJG" group-title="NACIONALES",LA TELE
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119686
@@ -102,8 +102,17 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61160
 #EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",Espn 2MX
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60998
 
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN BR
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15021
+
 #EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",Espn 2BR
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/8801
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15027
+
+#EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn 3BR
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15018
+
+#EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4BR
+http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15059
 
 #EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn 3MX
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61159
