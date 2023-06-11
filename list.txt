@@ -227,5 +227,5 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119823
 #EXTINF:-1 tvg-logo="https://goo.su/6ySGa" group-title="DOCUMENTALES",Animal Planet
 http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119957
 
-#EXTINF:-1 tvg-logo="https://goo.su/GhPZGVZ" group-title="Cobra Kai",Temporada 1 (24/7)
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/120277
+#EXTINF:-1,Por trece razones S01 E01
+http://elmonkey.us:25461/series/Victor/Victor/92569.mp4
