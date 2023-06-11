@@ -229,3 +229,6 @@ http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119957
 
 #EXTINF:-1,Por trece razones S01 E01
 http://elmonkey.us:25461/series/Victor/Victor/92569.mp4
+
+#EXTINF:-1,Mortal Kombat 1 (1995)
+https://m60.uqload.co/3rfkjfqmpjw2q4drdlv7p75hckpxy726wluqwx5oatwzufp6s5kqmvkuxyra/v.mp4
