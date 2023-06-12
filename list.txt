@@ -1,231 +1,242 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://goo.su/hGkS" group-title="NACIONALES",NPY
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60764
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60764
 
 #EXTINF:-1 tvg-logo="https://goo.su/DyPpU9" group-title="NACIONALES",TELEFUTURO
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60755
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60755
 
 #EXTINF:-1 tvg-logo="https://goo.su/UEa2" group-title="NACIONALES",PARAVISION
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119692
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119692
 
 #EXTINF:-1 tvg-logo="https://goo.su/Cfvx9Z" group-title="NACIONALES",UNICANAL
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60757
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60757
 
 #EXTINF:-1 tvg-logo="https://goo.su/mrPK" group-title="NACIONALES",SNT
-https://d1263956mchuq3.cloudfront.net/hls/snt.m3u8
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119688
 
 #EXTINF:-1 tvg-logo="https://goo.su/aSnMpJG" group-title="NACIONALES",LA TELE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119686
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119686
 
 #EXTINF:-1 tvg-logo="https://goo.su/F21H5ST" group-title="NACIONALES",C9N
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60760
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60760
 
 #EXTINF:-1 tvg-logo="https://goo.su/FVzvV" group-title="NACIONALES",TRECE
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119698
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119698
 
 #EXTINF:-1 tvg-logo="https://goo.su/f9zwtE" group-title="NACIONALES",PARAGUAY TV
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119691
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119691
 
 
 //DEPORTES
 
 #EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60706
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60706
 
 #EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60707
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60707
 
 #EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60708
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60708
 
 #EXTINF:-1 tvg-logo="https://goo.su/e3UTk8" group-title="DEPORTES",FOX SPORTS PREMIUM
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60721
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60721
 
 #EXTINF:-1 tvg-logo="https://goo.su/Spoq2" group-title="DEPORTES",FOX SPORTS 1MX
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61048
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61048
 
 #EXTINF:-1 tvg-logo="https://goo.su/GYnPq" group-title="DEPORTES",FOX SPORTS 2MX
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61049
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61049
 
 #EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS 3MX
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61092
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61092
 
 #EXTINF:-1 tvg-logo="https://goo.su/e3UTk8" group-title="DEPORTES",FOX SPORTS MX PREMIUM
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/78290
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/78290
 
 #EXTINF:-1 tvg-logo="https://goo.su/2q3ad" group-title="DEPORTES",DSports AR
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60713
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60713
 
 #EXTINF:-1 tvg-logo="https://goo.su/TLYq" group-title="DEPORTES",DSports 2AR
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60712
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60712
 
 #EXTINF:-1 tvg-logo="https://goo.su/TLYq" group-title="DEPORTES",DSports AR+
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60853
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60853
 
 #EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN AR
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60709
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60709
 
 #EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",ESPN 2AR
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60710
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60710
 
 #EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",ESPN 3AR
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60711
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60711
 
 #EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4AR 
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/49127
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/49127
 
 #EXTINF:-1 tvg-logo="https://goo.su/PfUUyt" group-title="DEPORTES",ESPN ARExtra
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116847
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/116847
 
 #EXTINF:-1 tvg-logo="https://goo.su/fklzSm" group-title="DEPORTES",ESPN ARPremium
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/96015
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/96015
 
 #EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport AR
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60703
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60703
 
 #EXTINF:-1 tvg-logo="https://goo.su/BdSD" group-title="DEPORTES",T&C Sport AR
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61066
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61066
 
 #EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 2 CL
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116863
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/116863
 
 #EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 3 CL
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116864
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/116864
 
 #EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN CL
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60906
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60906
 
 #EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN MX
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61160
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61160
 
 #EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",Espn 2MX
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60998
-
-#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN BR
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15021
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60998
 
 #EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",Espn 2BR
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15027
-
-#EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn 3BR
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15018
-
-#EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4BR
-http://xxxxlocal.com:8080/xiptv0985/Sdz55XvV7hqzs/15059
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/8801
 
 #EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn 3MX
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61159
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61159
 
 #EXTINF:-1 tvg-logo="https://goo.su/UJjY" group-title="DEPORTES",Sky Sports La Liga
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/102386
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/102386
 
 #EXTINF:-1 tvg-logo="https://goo.su/UJjY" group-title="DEPORTES",Sky Sports Bundesliga
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/102387
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/102387
 
 #EXTINF:-1 tvg-logo="https://goo.su/3Z9zJP" group-title="DEPORTES",Liga 1
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/141850
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/141850
 
 #EXTINF:-1 tvg-logo="https://goo.su/E6lFTL" group-title="DEPORTES",Liga 1MAX
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/10817
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/10817
 
 #EXTINF:-1 tvg-logo="https://goo.su/SbX9YR0" group-title="DEPORTES",Tigo Sport PY
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60768
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60768
 
 #EXTINF:-1 tvg-logo="https://goo.su/z63A" group-title="DEPORTES",DAZN 1
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104721
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/104721
 
 #EXTINF:-1 tvg-logo="https://goo.su/Xlbi" group-title="DEPORTES",DAZN 2
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104700
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/104700
 
 #EXTINF:-1 tvg-logo="https://goo.su/X81sO" group-title="DEPORTES",DAZN 3
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48880
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/48880
 
 #EXTINF:-1 tvg-logo="https://goo.su/3NZAr" group-title="DEPORTES",DAZN 4
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48882
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/48882
 
 #EXTINF:-1 tvg-logo="https://goo.su/BcoO" group-title="DEPORTES",DAZN LA LIGA
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104710
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/104710
 
 
 //INFANTIL
 #EXTINF:-1 tvg-logo="https://goo.su/YCqE2" group-title="INFANTIL",Discovery Kids
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61129
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61129
 
 #EXTINF:-1 tvg-logo="https://goo.su/HQGqxC" group-title="INFANTIL",Disney Jr.
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61130
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61130
 
 #EXTINF:-1 tvg-logo="https://goo.su/HQGqxC" group-title="INFANTIL",Disney XD
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61135
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61135
 
 #EXTINF:-1 tvg-logo="https://goo.su/XfGT9" group-title="INFANTIL",Disney Channel
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61132
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61132
 
 #EXTINF:-1 tvg-logo="https://goo.su/DyPO57l" group-title="INFANTIL",Nickelodeon
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61058
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61058
 
 #EXTINF:-1 tvg-logo="https://goo.su/PFm6" group-title="INFANTIL",Nick Jr
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119820
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119820
 
 #EXTINF:-1 tvg-logo="https://goo.su/B4m83" group-title="INFANTIL",Cartoon Network
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/120026
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/120026
 
 
 //PELICULAS
 
 #EXTINF:-1 tvg-logo="https://goo.su/OgFhZ2" group-title="PELICULAS",Star Channel
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61118
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61118
 
 #EXTINF:-1 tvg-logo="https://goo.su/j6JZ" group-title="PELICULAS",HBO
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60722
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60722
 
 #EXTINF:-1 tvg-logo="https://goo.su/HVO7Z" group-title="PELICULAS",HBO 2
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60724
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60724
 
 #EXTINF:-1 tvg-logo="https://goo.su/tq0lfa" group-title="PELICULAS",HBO Family
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61073
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61073
 
 #EXTINF:-1 tvg-logo="https://goo.su/NF4yeqU" group-title="PELICULAS",HBO Plus
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61021
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61021
 
 #EXTINF:-1 tvg-logo="https://goo.su/6bolqm" group-title="PELICULAS",Universal
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60746
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60746
 
 #EXTINF:-1 tvg-logo="https://goo.su/sqBDu" group-title="PELICULAS",Space
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61060
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61060
 
 #EXTINF:-1 tvg-logo="https://goo.su/6RXex" group-title="PELICULAS",FX
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61100
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61100
 
 #EXTINF:-1 tvg-logo="https://goo.su/tqy73y" group-title="PELICULAS",Cinecanal
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116859
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/116859
 
 #EXTINF:-1 tvg-logo="https://goo.su/lwdY" group-title="PELICULAS",Cinemax
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60737
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/60737
 
 #EXTINF:-1 tvg-logo="https://goo.su/ye8eYA" group-title="PELICULAS",Paramount
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119840
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119840
 
 
 //Documuentales
 
 #EXTINF:-1 tvg-logo="https://goo.su/9euMW" group-title="DOCUMENTALES",History
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119952
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119952
 
 #EXTINF:-1 tvg-logo="https://goo.su/9euMW" group-title="DOCUMENTALES",History 2
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119955
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119955
 
 #EXTINF:-1 tvg-logo="https://goo.su/MhwR" group-title="DOCUMENTALES",Nat Geo
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61063
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/61063
 
 #EXTINF:-1 tvg-logo="https://goo.su/zkGg" group-title="DOCUMENTALES",Discovery Channel
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119827
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119827
 
 #EXTINF:-1 tvg-logo="https://goo.su/vkSP" group-title="DOCUMENTALES",Discovery H&H
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119823
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119823
 
 #EXTINF:-1 tvg-logo="https://goo.su/6ySGa" group-title="DOCUMENTALES",Animal Planet
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119957
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119957
+
+#EXTINF:-1 tvg-logo="https://goo.su/GhPZGVZ" group-title="Cobra Kai",Temporada 1 (24/7)
+http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/120277
+
+#EXTINF:-1,Harry Potter y la piedra filosofal (2001)
+http://elmonkey.us:25461/movie/Victor/Victor/115257.mp4
+#EXTINF:-1,Harry Potter y el prisionero de Azkaban (2004)
+http://elmonkey.us:25461/movie/Victor/Victor/115258.mp4
+#EXTINF:-1,Harry Potter y la Orden del Fénix (2007)
+http://elmonkey.us:25461/movie/Victor/Victor/115259.mp4
+#EXTINF:-1,Harry Potter y el misterio del príncipe (2009)
+http://elmonkey.us:25461/movie/Victor/Victor/115260.mp4
+#EXTINF:-1,Harry Potter y el cáliz de fuego (2005)
+http://elmonkey.us:25461/movie/Victor/Victor/115261.mp4
+#EXTINF:-1,Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)
+http://elmonkey.us:25461/movie/Victor/Victor/115262.mp4
+#EXTINF:-1,Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)
+http://elmonkey.us:25461/movie/Victor/Victor/115263.mp4
+#EXTINF:-1,Harry Potter y la cámara secreta (2002)
+http://elmonkey.us:25461/movie/Victor/Victor/115264.mp4
 
 #EXTINF:-1,Por trece razones S01 E01
 http://elmonkey.us:25461/series/Victor/Victor/92569.mp4
