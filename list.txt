@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://goo.su/hGkS" group-title="NACIONALES",NPY
-http://gameplay.p2sweb.me:80/luci827/luci728/251411
+https://copacotf.desdeparaguay.net/npy/npy_py_baja/chunklist_w904581104.m3u8?k=ad028013c0f8a6bf732a92e7355589cf86fdf09661050abd476ac8b5d518f451&exp=1687732336
 
 #EXTINF:-1 tvg-logo="https://goo.su/DyPpU9" group-title="NACIONALES",TELEFUTURO
 http://gameplay.p2sweb.me:80/luci827/luci728/251406
@@ -27,5 +27,5 @@ http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119698
 #EXTINF:-1 tvg-logo="https://goo.su/f9zwtE" group-title="NACIONALES",PARAGUAY TV
 http://gameplay.p2sweb.me:80/luci827/luci728/251410
 
-#EXTINF:-1 tvg-logo="https://goo.su/ceIZvD7" group-title="NACIONALES",GEN
+#EXTINF:-1 tvg-logo="https://goo.su/0RoOXe" group-title="NACIONALES",GEN
 http://gameplay.p2sweb.me:80/luci827/luci728/251413
