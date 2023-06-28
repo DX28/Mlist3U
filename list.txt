@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://goo.su/hGkS" group-title="NACIONALES",NPY
-https://copacotf.desdeparaguay.net/npy/npy_py_baja/chunklist_w904581104.m3u8?k=ad028013c0f8a6bf732a92e7355589cf86fdf09661050abd476ac8b5d518f451&exp=1687732336
+http://gameplay.p2sweb.me:80/luci827/luci728/251411
 
 #EXTINF:-1 tvg-logo="https://goo.su/DyPpU9" group-title="NACIONALES",TELEFUTURO
 http://gameplay.p2sweb.me:80/luci827/luci728/251406
@@ -22,10 +22,191 @@ http://gameplay.p2sweb.me:80/luci827/luci728/251412
 http://gameplay.p2sweb.me:80/luci827/luci728/251416
 
 #EXTINF:-1 tvg-logo="https://goo.su/FVzvV" group-title="NACIONALES",TRECE
-http://xplatinmedia.com:8080/AG_Discord/XUSx0L0chVVDxET0bBZIkgFCQq/119698
+http://partyplay.live:8080/exch@grogi/grogi456/42038
 
 #EXTINF:-1 tvg-logo="https://goo.su/f9zwtE" group-title="NACIONALES",PARAGUAY TV
 http://gameplay.p2sweb.me:80/luci827/luci728/251410
 
-#EXTINF:-1 tvg-logo="https://goo.su/0RoOXe" group-title="NACIONALES",GEN
+#EXTINF:-1 tvg-logo="https://goo.su/ceIZvD7" group-title="NACIONALES",GEN
 http://gameplay.p2sweb.me:80/luci827/luci728/251413
+
+
+//DEPORTES
+#EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS CO1
+http://partyplay.live:8080/exch@grogi/grogi456/8037
+
+#EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1
+http://partyplay.live:8080/exch@grogi/grogi456/28595
+
+#EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2
+http://gameplay.p2sweb.me:80/luci827/luci728/251499
+
+#EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3
+http://gameplay.p2sweb.me:80/luci827/luci728/251501
+
+#EXTINF:-1 tvg-logo="https://goo.su/e3UTk8" group-title="DEPORTES",FOX SPORTS PREMIUM
+http://gameplay.p2sweb.me:80/luci827/luci728/251502
+
+#EXTINF:-1 tvg-logo="https://goo.su/Spoq2" group-title="DEPORTES",FOX SPORTS 1MX
+http://partyplay.live:8080/exch@grogi/grogi456/30088
+
+#EXTINF:-1 tvg-logo="https://goo.su/GYnPq" group-title="DEPORTES",FOX SPORTS 2MX
+http://partyplay.live:8080/exch@grogi/grogi456/384670
+
+#EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS 3MX
+http://partyplay.live:8080/exch@grogi/grogi456/301491
+
+#EXTINF:-1 tvg-logo="https://goo.su/2q3ad" group-title="DEPORTES",DSports AR
+http://partyplay.live:8080/exch@grogi/grogi456/301496
+
+#EXTINF:-1 tvg-logo="https://goo.su/TLYq" group-title="DEPORTES",DSports 2AR
+http://partyplay.live:8080/exch@grogi/grogi456/301497
+
+#EXTINF:-1 tvg-logo="https://goo.su/TLYq" group-title="DEPORTES",DSports AR+
+http://partyplay.live:8080/exch@grogi/grogi456/350259
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN AR
+http://partyplay.live:8080/exch@grogi/grogi456/11573
+
+#EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",ESPN 2AR
+http://partyplay.live:8080/exch@grogi/grogi456/11574
+
+#EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",ESPN 3AR
+http://partyplay.live:8080/exch@grogi/grogi456/11575
+
+#EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4AR 
+http://partyplay.live:8080/exch@grogi/grogi456/30088
+
+#EXTINF:-1 tvg-logo="https://goo.su/PfUUyt" group-title="DEPORTES",ESPN Deportes
+http://partyplay.live:8080/exch@grogi/grogi456/3397
+
+#EXTINF:-1 tvg-logo="https://goo.su/fklzSm" group-title="DEPORTES",ESPN ARPremium
+http://partyplay.live:8080/exch@grogi/grogi456/11781
+
+#EXTINF:-1 tvg-logo="https://goo.su/BdSD" group-title="DEPORTES",T&C Sport AR
+http://partyplay.live:8080/exch@grogi/grogi456/11653
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport AR
+http://partyplay.live:8080/exch@grogi/grogi456/11647
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 2 CL
+http://partyplay.live:8080/exch@grogi/grogi456/175332
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 3 CL
+http://partyplay.live:8080/exch@grogi/grogi456/170618
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN CL
+http://partyplay.live:8080/exch@grogi/grogi456/42119
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN MX
+http://partyplay.live:8080/exch@grogi/grogi456/8364
+
+#EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",Espn 2MX
+http://partyplay.live:8080/exch@grogi/grogi456/8362
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN BR
+http://partyplay.live:8080/exch@grogi/grogi456/8042
+
+#EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",Espn 2BR
+http://partyplay.live:8080/exch@grogi/grogi456/11809
+
+#EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn 3BR
+http://partyplay.live:8080/exch@grogi/grogi456/410281
+
+#EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn 3MX
+http://partyplay.live:8080/exch@grogi/grogi456/8363
+
+#EXTINF:-1 tvg-logo="https://goo.su/z63A" group-title="DEPORTES",DAZN 1
+http://partyplay.live:8080/exch@grogi/grogi456/411972
+
+#EXTINF:-1 tvg-logo="https://goo.su/Xlbi" group-title="DEPORTES",DAZN 2
+http://partyplay.live:8080/exch@grogi/grogi456/310857
+
+#EXTINF:-1 tvg-logo="https://goo.su/X81sO" group-title="DEPORTES",DAZN 3
+http://partyplay.live:8080/exch@grogi/grogi456/310858
+
+#EXTINF:-1 tvg-logo="https://goo.su/3NZAr" group-title="DEPORTES",DAZN 4
+http://partyplay.live:8080/exch@grogi/grogi456/411963
+
+#EXTINF:-1 tvg-logo="https://goo.su/BcoO" group-title="DEPORTES",DAZN LA LIGA
+http://partyplay.live:8080/exch@grogi/grogi456/411958
+
+
+//INFANTIL
+#EXTINF:-1 tvg-logo="https://goo.su/YCqE2" group-title="INFANTIL",Discovery Kids
+http://partyplay.live:8080/exch@grogi/grogi456/42107
+
+#EXTINF:-1 tvg-logo="https://goo.su/HQGqxC" group-title="INFANTIL",Disney Jr.
+http://partyplay.live:8080/exch@grogi/grogi456/42091
+
+#EXTINF:-1 tvg-logo="https://goo.su/HQGqxC" group-title="INFANTIL",Disney XD
+http://partyplay.live:8080/exch@grogi/grogi456/42092
+
+#EXTINF:-1 tvg-logo="https://goo.su/XfGT9" group-title="INFANTIL",Disney Channel
+http://partyplay.live:8080/exch@grogi/grogi456/42090
+
+#EXTINF:-1 tvg-logo="https://goo.su/DyPO57l" group-title="INFANTIL",Nickelodeon
+http://partyplay.live:8080/exch@grogi/grogi456/42094
+
+#EXTINF:-1 tvg-logo="https://goo.su/PFm6" group-title="INFANTIL",Nick Jr
+http://partyplay.live:8080/exch@grogi/grogi456/42093
+
+#EXTINF:-1 tvg-logo="https://goo.su/B4m83" group-title="INFANTIL",Cartoon Network
+http://partyplay.live:8080/exch@grogi/grogi456/42100
+
+
+//PELICULAS
+
+#EXTINF:-1 tvg-logo="https://goo.su/OgFhZ2" group-title="PELICULAS",Star Channel
+http://partyplay.live:8080/exch@grogi/grogi456/385974
+
+#EXTINF:-1 tvg-logo="https://goo.su/OgFhZ2" group-title="PELICULAS",Star Channel MX
+http://partyplay.live:8080/exch@grogi/grogi456/8372
+
+#EXTINF:-1 tvg-logo="https://goo.su/j6JZ" group-title="PELICULAS",HBO
+http://partyplay.live:8080/exch@grogi/grogi456/11601
+
+#EXTINF:-1 tvg-logo="https://goo.su/HVO7Z" group-title="PELICULAS",HBO 2
+http://partyplay.live:8080/exch@grogi/grogi456/11602
+
+#EXTINF:-1 tvg-logo="https://goo.su/tq0lfa" group-title="PELICULAS",HBO Family
+http://partyplay.live:8080/exch@grogi/grogi456/11603
+
+#EXTINF:-1 tvg-logo="https://goo.su/NF4yeqU" group-title="PELICULAS",HBO Plus
+http://partyplay.live:8080/exch@grogi/grogi456/8512
+
+#EXTINF:-1 tvg-logo="https://goo.su/6bolqm" group-title="PELICULAS",Universal
+http://partyplay.live:8080/exch@grogi/grogi456/11654
+
+#EXTINF:-1 tvg-logo="https://goo.su/sqBDu" group-title="PELICULAS",Space
+http://partyplay.live:8080/exch@grogi/grogi456/11634
+
+#EXTINF:-1 tvg-logo="https://goo.su/6RXex" group-title="PELICULAS",FX
+http://partyplay.live:8080/exch@grogi/grogi456/11594
+
+#EXTINF:-1 tvg-logo="https://goo.su/tqy73y" group-title="PELICULAS",Cinecanal
+http://partyplay.live:8080/exch@grogi/grogi456/11556
+
+#EXTINF:-1 tvg-logo="https://goo.su/lwdY" group-title="PELICULAS",Cinemax
+http://partyplay.live:8080/exch@grogi/grogi456/11557
+
+#EXTINF:-1 tvg-logo="https://goo.su/ye8eYA" group-title="PELICULAS",Paramount
+http://partyplay.live:8080/exch@grogi/grogi456/11627
+
+
+//Documuentales
+
+#EXTINF:-1 tvg-logo="https://goo.su/9euMW" group-title="DOCUMENTALES",History
+http://partyplay.live:8080/exch@grogi/grogi456/11607
+
+#EXTINF:-1 tvg-logo="https://goo.su/MhwR" group-title="DOCUMENTALES",Nat Geo
+http://partyplay.live:8080/exch@grogi/grogi456/11621
+
+#EXTINF:-1 tvg-logo="https://goo.su/zkGg" group-title="DOCUMENTALES",Discovery Channel
+http://partyplay.live:8080/exch@grogi/grogi456/17037
+
+#EXTINF:-1 tvg-logo="https://goo.su/vkSP" group-title="DOCUMENTALES",Discovery H&H
+http://partyplay.live:8080/exch@grogi/grogi456/42106
+
+#EXTINF:-1 tvg-logo="https://goo.su/6ySGa" group-title="DOCUMENTALES",Animal Planet
+http://partyplay.live:8080/exch@grogi/grogi456/42110
