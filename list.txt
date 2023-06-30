@@ -75,7 +75,7 @@ http://partyplay.live:8080/exch@grogi/grogi456/11574
 http://partyplay.live:8080/exch@grogi/grogi456/11575
 
 #EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4AR 
-http://partyplay.live:8080/exch@grogi/grogi456/30088
+http://playhispano.org:8080/67854332/7658943/245474
 
 #EXTINF:-1 tvg-logo="https://goo.su/PfUUyt" group-title="DEPORTES",ESPN Deportes
 http://partyplay.live:8080/exch@grogi/grogi456/3397
