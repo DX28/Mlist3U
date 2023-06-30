@@ -32,26 +32,33 @@ http://gameplay.p2sweb.me:80/luci827/luci728/251413
 
 
 //DEPORTES
-#EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS CO1
-http://partyplay.live:8080/exch@grogi/grogi456/8037
 
-#EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1
-http://partyplay.live:8080/exch@grogi/grogi456/28595
+#EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1CO
+http://playhispano.org:8080/67854332/7658943/86352
 
-#EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2
-http://gameplay.p2sweb.me:80/luci827/luci728/251499
+#EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2CO
+http://playhispano.org:8080/67854332/7658943/86353
 
-#EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3
-http://gameplay.p2sweb.me:80/luci827/luci728/251501
+#EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3CO
+http://playhispano.org:8080/67854332/7658943/86354
+
+#EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1AR
+http://playhispano.org:8080/67854332/7658943/156606
+
+#EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2AR
+http://playhispano.org:8080/67854332/7658943/156587
+
+#EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3AR
+http://playhispano.org:8080/67854332/7658943/149635
 
 #EXTINF:-1 tvg-logo="https://goo.su/e3UTk8" group-title="DEPORTES",FOX SPORTS PREMIUM
-http://gameplay.p2sweb.me:80/luci827/luci728/251502
+http://playhispano.org:8080/67854332/7658943/163375
 
 #EXTINF:-1 tvg-logo="https://goo.su/Spoq2" group-title="DEPORTES",FOX SPORTS 1MX
-http://partyplay.live:8080/exch@grogi/grogi456/30088
+http://playhispano.org:8080/67854332/7658943/86988
 
 #EXTINF:-1 tvg-logo="https://goo.su/GYnPq" group-title="DEPORTES",FOX SPORTS 2MX
-http://partyplay.live:8080/exch@grogi/grogi456/384670
+http://playhispano.org:8080/67854332/7658943/87054
 
 #EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS 3MX
 http://partyplay.live:8080/exch@grogi/grogi456/301491
@@ -66,7 +73,7 @@ http://partyplay.live:8080/exch@grogi/grogi456/301497
 http://partyplay.live:8080/exch@grogi/grogi456/350259
 
 #EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN AR
-http://playhispano.org:8080/67854332/7658943/163392
+http://playhispano.org:8080/67854332/7658943/183901
 
 #EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",ESPN 2AR
 http://partyplay.live:8080/exch@grogi/grogi456/11574
@@ -75,7 +82,7 @@ http://partyplay.live:8080/exch@grogi/grogi456/11574
 http://partyplay.live:8080/exch@grogi/grogi456/11575
 
 #EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4AR 
-http://playhispano.org:8080/67854332/7658943/245474
+http://partyplay.live:8080/exch@grogi/grogi456/30088
 
 #EXTINF:-1 tvg-logo="https://goo.su/PfUUyt" group-title="DEPORTES",ESPN Deportes
 http://partyplay.live:8080/exch@grogi/grogi456/3397
