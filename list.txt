@@ -1,140 +1,220 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://goo.su/hGkS" group-title="NACIONALES",NPY
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/48241
+
+#EXTINF:-1 tvg-logo="https://goo.su/DyPpU9" group-title="NACIONALES",TELEFUTURO
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9020
+
+#EXTINF:-1 tvg-logo="https://goo.su/UEa2" group-title="NACIONALES",PARAVISION
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/279685
+
+#EXTINF:-1 tvg-logo="https://goo.su/Cfvx9Z" group-title="NACIONALES",UNICANAL
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/148636
+
+#EXTINF:-1 tvg-logo="https://goo.su/mrPK" group-title="NACIONALES",SNT
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/68873
+
+#EXTINF:-1 tvg-logo="https://goo.su/aSnMpJG" group-title="NACIONALES",LA TELE
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298929
+
+#EXTINF:-1 tvg-logo="https://goo.su/F21H5ST" group-title="NACIONALES",C9N
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9008
+
+#EXTINF:-1 tvg-logo="https://goo.su/FVzvV" group-title="NACIONALES",TRECE
+https://copacogen.desdeparaguay.net/trecetv/trecetv_baja/chunklist_w1934237626.m3u8?k=6c9f12b06e4361ac3ceed3114288d746353547753ac6c639fc63022cbdf2082e&exp=1689043942
+
+#EXTINF:-1 tvg-logo="https://goo.su/f9zwtE" group-title="NACIONALES",PARAGUAY TV
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/148637
+
+#EXTINF:-1 tvg-logo="https://goo.su/ceIZvD7" group-title="NACIONALES",GEN
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/148640
+
+
 //DEPORTES
 
 #EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1AR
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/2391
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/280370
+
+#EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2AR
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3187
+
+#EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3AR
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/10921
 
 #EXTINF:-1 tvg-logo="https://goo.su/e3UTk8" group-title="DEPORTES",FOX SPORTS PREMIUM
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/24392
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3203
 
 #EXTINF:-1 tvg-logo="https://goo.su/Spoq2" group-title="DEPORTES",FOX SPORTS 1MX
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31581
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/10925
 
 #EXTINF:-1 tvg-logo="https://goo.su/GYnPq" group-title="DEPORTES",FOX SPORTS 2MX
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31582
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3043
 
 #EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS 3MX
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/24391
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3044
 
 #EXTINF:-1 tvg-logo="https://goo.su/2q3ad" group-title="DEPORTES",DSports AR
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/2373
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/67721
 
 #EXTINF:-1 tvg-logo="https://goo.su/TLYq" group-title="DEPORTES",DSports 2AR
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/2374
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/31645
 
 #EXTINF:-1 tvg-logo="https://goo.su/TLYq" group-title="DEPORTES",DSports AR+
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/2375
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/65750
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN AR
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/61174
 
 #EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",ESPN 2AR
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/2388
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/70752
 
 #EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",ESPN 3AR
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31590
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/61170
+
+#EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4AR 
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/295627
 
 #EXTINF:-1 tvg-logo="https://goo.su/PfUUyt" group-title="DEPORTES",ESPN Extra
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/2377
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/66298
 
 #EXTINF:-1 tvg-logo="https://goo.su/fklzSm" group-title="DEPORTES",ESPN ARPremium
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/2392
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298158
 
 #EXTINF:-1 tvg-logo="https://goo.su/BdSD" group-title="DEPORTES",T&C Sport AR
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/2383
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8749
 
 #EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport AR
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/2401
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3204
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 2 CL
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/279612
+
+#EXTINF:-1 tvg-logo="https://goo.su/w7D7" group-title="DEPORTES",TNT Sport 3 CL
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/266775
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN MX
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9070
 
 #EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",Espn 2MX
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31589
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298057
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN BR
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8793
+
+#EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",Espn 2BR
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8801
 
 #EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn MXExtra
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31591
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/38607
 
 #EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn 3MX
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/2389
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/38603
+
+#EXTINF:-1 tvg-logo="https://goo.su/z63A" group-title="DEPORTES",DAZN 1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/64711
+
+#EXTINF:-1 tvg-logo="https://goo.su/Xlbi" group-title="DEPORTES",DAZN 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/64712
+
+#EXTINF:-1 tvg-logo="https://goo.su/X81sO" group-title="DEPORTES",DAZN 3
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/269912
+
+#EXTINF:-1 tvg-logo="https://goo.su/3NZAr" group-title="DEPORTES",DAZN 4
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/269911
+
+#EXTINF:-1 tvg-logo="https://goo.su/BcoO" group-title="DEPORTES",DAZN LA LIGA
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297787
+
+#EXTINF:-1 tvg-logo="https://goo.su/5HWHRDl" group-title="DEPORTES",Tigo Sport
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9006
+
+#EXTINF:-1 tvg-logo="https://goo.su/5HWHRDl" group-title="DEPORTES",Tigo Sport 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/168960
+
 
 
 //INFANTIL
 #EXTINF:-1 tvg-logo="https://goo.su/YCqE2" group-title="INFANTIL",Discovery Kids
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/24388
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9060
 
 #EXTINF:-1 tvg-logo="https://goo.su/HQGqxC" group-title="INFANTIL",Disney Jr.
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31732
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9042
 
 #EXTINF:-1 tvg-logo="https://goo.su/HQGqxC" group-title="INFANTIL",Disney XD
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31789
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/38667
 
 #EXTINF:-1 tvg-logo="https://goo.su/XfGT9" group-title="INFANTIL",Disney Channel
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31733
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9086
 
 #EXTINF:-1 tvg-logo="https://goo.su/DyPO57l" group-title="INFANTIL",Nickelodeon
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31736
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9085
 
 #EXTINF:-1 tvg-logo="https://goo.su/PFm6" group-title="INFANTIL",Nick Jr
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31740
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/29310
 
 #EXTINF:-1 tvg-logo="https://goo.su/B4m83" group-title="INFANTIL",Cartoon Network
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31730
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9043
 
 #EXTINF:-1 tvg-logo="https://goo.su/B4m83" group-title="INFANTIL",Cartoonito
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31735
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9088
 
 
 //PELICULAS
 
 #EXTINF:-1 tvg-logo="https://goo.su/OgFhZ2" group-title="PELICULAS",Star Channel
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31645
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/280374
 
 #EXTINF:-1 tvg-logo="https://goo.su/OgFhZ2" group-title="PELICULAS",Star Channel MX
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31646
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/280386
 
 #EXTINF:-1 tvg-logo="https://goo.su/j6JZ" group-title="PELICULAS",HBO
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31690
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3055
 
 #EXTINF:-1 tvg-logo="https://goo.su/HVO7Z" group-title="PELICULAS",HBO 2
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31688
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3056
 
 #EXTINF:-1 tvg-logo="https://goo.su/tq0lfa" group-title="PELICULAS",HBO Family
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31689
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3057
 
 #EXTINF:-1 tvg-logo="https://goo.su/NF4yeqU" group-title="PELICULAS",HBO Plus
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31691
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3058
 
 #EXTINF:-1 tvg-logo="https://goo.su/6bolqm" group-title="PELICULAS",Universal Studios
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31698
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9071
 
 #EXTINF:-1 tvg-logo="https://goo.su/sqBDu" group-title="PELICULAS",Space
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31648
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9136
 
 #EXTINF:-1 tvg-logo="https://goo.su/6RXex" group-title="PELICULAS",FX
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31673
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9105
 
 #EXTINF:-1 tvg-logo="https://goo.su/tqy73y" group-title="PELICULAS",Cinecanal
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31694
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9128
 
 #EXTINF:-1 tvg-logo="https://goo.su/lwdY" group-title="PELICULAS",Cinemax
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31697
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9080
 
 #EXTINF:-1 tvg-logo="https://goo.su/ye8eYA" group-title="PELICULAS",Paramount
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31555
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9146
 
 
 //Documuentales
 
 #EXTINF:-1 tvg-logo="https://goo.su/9euMW" group-title="DOCUMENTALES",History
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31619
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9050
 
 #EXTINF:-1 tvg-logo="https://goo.su/9euMW" group-title="DOCUMENTALES",History 2
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31621
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/273073
 
 #EXTINF:-1 tvg-logo="https://goo.su/MhwR" group-title="DOCUMENTALES",Nat Geo
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31616
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/8725
 
 #EXTINF:-1 tvg-logo="https://goo.su/zkGg" group-title="DOCUMENTALES",Discovery Channel
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31623
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/280388
 
 #EXTINF:-1 tvg-logo="https://goo.su/vkSP" group-title="DOCUMENTALES",Discovery H&H
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31625
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9110
 
 #EXTINF:-1 tvg-logo="https://goo.su/6ySGa" group-title="DOCUMENTALES",Animal Planet
-http://unlock-pro.biz:80/martineiptvtree/exchange500thFR9wK0PGhRKsaa/31614
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298043
