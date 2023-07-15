@@ -142,7 +142,7 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9060
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9042
 
 #EXTINF:-1 tvg-logo="https://goo.su/HQGqxC" group-title="INFANTIL",Disney XD
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/38667
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/5298
 
 #EXTINF:-1 tvg-logo="https://goo.su/XfGT9" group-title="INFANTIL",Disney Channel
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/9086
